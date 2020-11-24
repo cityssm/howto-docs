@@ -65,13 +65,9 @@ to add the same subfolder to the Rewrite URL.
 ## References
 
 -   [Deep Shah's Blog - How to Use IIS7 as Front End to Java Web Servers Like Tomcat and Jetty](http://www.gitshah.com/2013/06/how-to-use-iis7-as-front-end-to-java.html)
-
 -   [Dev - Hosting a Node.js application in Windows with IIS as reverse proxy](https://dev.to/petereysermans/hosting-a-node-js-application-on-windows-with-iis-as-reverse-proxy-397b)
-
 -   [Robert Wray - Getting a 403.501 error response from IIS? Check your 'Dynamic IP Restriction Settings'](https://robertwray.co.uk/blog/getting-a-403-501-error-response-from-iis-check-your-dynamic-ip-restriction-settings)
-
 -   [StackOverflow - How do I setup reserve proxy in local IIS](https://stackoverflow.com/questions/58480493/how-do-i-setup-reverse-proxy-in-local-iis)
-
 -   [StackOverflow - How to disable webpage caching in ExpressJS + NodeJS?](https://stackoverflow.com/questions/22632593/how-to-disable-webpage-caching-in-expressjs-nodejs)
 
 ### Outbound Rules
