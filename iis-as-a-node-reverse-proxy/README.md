@@ -73,3 +73,7 @@ to add the same subfolder to the Rewrite URL.
 ### Outbound Rules
 
 -   [Creating an outbound rule to modify the HTTP response header](https://docs.microsoft.com/en-us/iis/extensions/url-rewrite-module/modifying-http-response-headers#creating-an-outbound-rule-to-modify-the-http-response-header) - How to handle 302 redirections.
+
+### Related Links
+
+-   [Reverse-Proxying Node.js Apps on Windows with IIS](https://travishorn.com/reverse-proxying-node-js-apps-on-windows-with-iis-acee318b6759)
