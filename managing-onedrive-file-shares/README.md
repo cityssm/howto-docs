@@ -54,13 +54,13 @@ The most important options include:
 Although not necessarily required, organizing your OneDrive prior to sharing
 can greatly improve your sharing experience. 🙂
 
-**I highly recommend starting by creating folder named "Shared Files"
+**I highly recommend starting by creating a folder named "Shared Files"
 in the root of your OneDrive.**
 
 > Having a folder grouping together all of your shared information
-helps keep things organized when you are sharing files with multiple people.
-It also helps keep you in the mindset that files saved in this folder
-will likely become available to people other than just yourself.
+> helps keep things organized when you are sharing files with multiple people.
+> It also helps keep you in the mindset that files saved in this folder
+> will likely become available to people other than just yourself.
 
 ![OneDrive Home](onedrive-newFolder.png)
 
@@ -75,24 +75,82 @@ Click **Create** to save it.
 ## 📤 Sharing Folders Using OneDrive
 
 > ⭐ Although it is possible to share single files in OneDrive,
-it is **not recommended**
-as sharing folders is far easier to do securely.
+> it is **not recommended**
+> as sharing folders is far easier to do securely.
 
 Inside the **Shared Files** folder, create a new folder for the files
 that will be shared.
 
+> ⭐ Including the current date in the shared folder name
+> can be helpful when it comes to cleaning up old shared folders.
+>
 > ⭐ When choosing a folder name for the folder you will be sharing,
-be sure **not to include** any information in the name that is confidential.
-The full folder path will be shared with the recipient of the shared folder.
+> be sure **not to include** any information in the name that is confidential.
+> Although recipients will not be able to browse parent folders,
+> the full folder path will be shared with the recipient of the shared folder.
+
+![Folder with Files to Share](onedrive-folderWithFiles.png)
 
 Open that new folder.  Upload the files that need to be shared.
 Files can be uploaded using the **Upload** button in the top menu,
 or by dragging the file from a Windows Explorer onto the web browser.
 
-## Important Notes
+In the top menu, click **Share**.
+
+![Send Link Dialog](onedrive-sendLinkBlank.png)
+
+The first option lets you set the scope of the share.
+By default, shares are limited to people with City email addresses.
+
+![Link Scope Settings](onedrive-shareScope.png)
+
+To share with people outside of the City,
+change the scope to **Specific People**.
+
+When setting the scope, you can also choose whether the recipients
+will be able to upload their own files into the folder or not
+by selecting the **Allow editing** option.
+
+![Send Link Dialog](onedrive-sendLinkBlank.png)
+
+In the **To** field, enter the email addresses of the people
+who will be receiving the shared folder.
+
+After entering the email addresses of all of the recipients,
+OneDrive can either send an email to the recipients for you,
+or create a link **valid only for those recipients**
+that can be included in your own email message.
+
+## 📥 Downloading Shared Files from OneDrive
+
+Whether recipients receive a link directly from OneDrive
+or as part of an email you wrote, the process is the same.
+
+Click the link.
+
+-   Internal recipients log in with their City credentials.
+
+-   External recipients will not require an account,
+    but will need to verify their email address using a code
+    sent by email when they use the link.
+
+## 🧙‍♂️ Tips, Tricks, and Important Notes
+
+⭐ Share a folder between yourself and a coworker to test things out.
+
+> It's always easier to sort out problems internally
+> before increasing your exposure to outside contacts.
 
 ⭐ When sharing links, only share links generated using the **Share**
 or **Copy Link** buttons in OneDrive.
-**Never** copy the link from your web browser's address bar.
-The web browser uses a website address that will not work for the people
-you wish to share with.
+
+> **Never** copy the link from your web browser's address bar.
+> The web browser uses a website address that will not work for the people
+> you wish to share with.
+
+⭐ **Clean up after yourself.**
+
+> By default, once a shared folder is made, it stays available.
+> You can see your current shares from the **Shared** link in the left-side menu.
+> Consider removing links after they are no longer needed while their purpose
+> is still fresh in your mind.
