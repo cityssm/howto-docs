@@ -128,6 +128,9 @@ by selecting the **Allow editing** option.
 
 In the **To** field, enter the email addresses of the people
 who will be receiving the shared folder.
+You have an option to grant each of those email addresses
+the ability to edit as well, if you want to receive files
+from those contacts.
 
 After entering the email addresses of all of the recipients,
 OneDrive can either send an email to the recipients for you,
@@ -139,6 +142,8 @@ that can be included in your own email message.
 Whether recipients receive a link directly from OneDrive
 or as part of an email you wrote, the process is the same.
 
+![Email from OneDrive](email-onedriveLink.png)
+
 Click the link.
 
 -   Internal recipients log in with their City credentials.
@@ -146,6 +151,10 @@ Click the link.
 -   External recipients will not require an account,
     but will need to verify their email address using a code
     sent by email when they use the link.
+
+Once properly verified, the recipient will be able to download
+all of the files in the folder.  If the recipient was granted
+edit permissions, they will also be able to upload new files.
 
 ## 🧙‍♂️ Tips, Tricks, and Important Notes
 
