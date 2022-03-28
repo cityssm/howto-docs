@@ -4,10 +4,19 @@ When you need to share large files over email,
 and the size of those files exceeds the limits set our mail server,
 OneDrive provides a solution.
 
+## Contents
+
+-   [Accessing OneDrive](#-accessing-onedrive)
+-   [Familiarize Yourself with OneDrive](#-familiarize-yourself-with-onedrive)
+-   [Set Up Your OneDrive for Sharing](#-set-up-your-onedrive-for-sharing)
+-   [Sharing Folders Using OneDrive](#-sharing-folders-using-onedrive)
+-   [Downloading Shared Files from OneDrive](#-downloading-shared-files-from-onedrive)
+-   [Tips, Tricks, and Important Notes](#️-tips-tricks-and-important-notes)
+
 ## 👶 Accessing OneDrive
 
 To access OneDrive through your web browser,
-visit [office.com](https://www.office.com).
+**visit [office.com](https://www.office.com)**.
 
 ![Login with your City email address](login-email.png)
 
@@ -48,6 +57,10 @@ The most important options include:
 -   **My Files**, which shows files in your personal OneDrive repository.
 -   **Shared**, which shows files you are currently sharing and files shared with you by others.
 -   **Recycle Bin**, which shows files you have deleted, with the option to recover them.
+
+Files and folders are shown in the middle of the screen.
+
+Above the files and folders is a toolbar of folder options.
 
 ## 💡 Set Up Your OneDrive for Sharing
 
